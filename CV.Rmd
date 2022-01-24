@@ -1,0 +1,64 @@
+---
+title: "Brian D. Christman" 
+output:
+  html_document
+---
+
+```{css, echo=FALSE}
+
+body{
+  font-family: Helvetica;
+  font-size: 16pt;
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Education
+
+---
+
+- PhD Biostatistics and Data Science, University of Mississippi Medical Center [**2021-Present**]{style="float:right"} 
+
+
+
+- B.S. Biomathematics, Rhodes College [**2017-2021**]{style="float:right"}
+  
+  
+  
+## Employment
+
+---
+
+- Student Project Analyst, University of Mississippi Medical Center [**2021**]{style="float:right"}
+
+- Health Equity Intern, Rhodes College [**2020**]{style="float:right"}
+
+- Preventive Medicine Intern, University of Tennessee Health Science Center [**2019-2020**]{style="float:right"}
+
+## Goals
+
+---
+
+- Earn my doctoral degree 
+
+- Publish at least 5 papers
+
+- Work at least 1 internship
+
+- Earn employment at a university
+
+^[Additional Information will be provided upon request]
